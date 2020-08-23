@@ -11,17 +11,17 @@ header:
 excerpt: >
   Kim Minsuk's Blog.
 feature_row:
-    title: "About Me"
+  - title: "About Me"
     excerpt: "Learn from introduction about me"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    title: "Recently Posts"
+  - title: "Recently Posts"
     excerpt: "See my recently posts"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    title: "Categories"
+  - title: "Categories"
     excerpt: "See the categories..."
     url: "/docs/license/"
     btn_class: "btn--primary"
