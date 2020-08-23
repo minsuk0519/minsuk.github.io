@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - title: "About Me"
     excerpt: "Learn from introduction about me"
-    url: "/docs/_pages/about.md/"
+    url: "/pages/about.md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Recently Posts"
