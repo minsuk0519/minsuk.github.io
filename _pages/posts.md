@@ -1,6 +1,6 @@
 ---
 title: "Recently posts"
-permalink: /posts/
+permalink: /pages/posts/
 layout: posts
 author_profile: true
 ---
