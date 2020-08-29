@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Posts"
   - title: "Categories"
     excerpt: "See the categories..."
-    url: "/docs/license/"
+    url: "/pages/categories/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
