@@ -1,6 +1,8 @@
 ---
 title: "My first page"
 filename: 2019-12-01-first-post.md
+categories:
+  - Test1
 date: 2019-12-01 10:45:00
 permalink: /tags/
 ---
