@@ -1,7 +1,9 @@
 ---
 title: "Top-down 2D Shooting Game"
+filename: "2020-09-05-GAM100_Assignment2_TopdownShooting.md"
 permalink: /posts/GAM100_Assignment2
-category: Project
+categories:
+  - Project
 excerpt: "The First Game I've made"
 last_modified_at: 2020-09-05 16:39
 toc: true
