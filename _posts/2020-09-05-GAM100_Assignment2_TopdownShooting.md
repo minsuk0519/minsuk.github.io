@@ -19,6 +19,10 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 
 ## Cons
 
+<figure>
+  <img src="{{ '/assets/images/test1.gif' | relative_url }}" alt="fish walk">
+</figure>
+
 ## Summary
 
 This project was the first game I've ever made. Since I had no skill on time management, I really was pressed on time and cannot solve the physics problem occured from knockback motion. Also, i took too much time on building the hierarchy system.
