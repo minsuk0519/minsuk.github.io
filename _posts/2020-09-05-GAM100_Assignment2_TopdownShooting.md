@@ -20,7 +20,7 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 ## Cons
 
 <figure>
-  <img src="{{ '/assets/images/test1.gif' | relative_url }}" alt="fish walk">
+  <img src="{{ '/assets/images/test1.gif' | relative_url }}" alt="fish walk" width="100">
 </figure>
 
 ## Summary
