@@ -17,6 +17,8 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 
 ## Pros
 
+pros
+
 ## Cons
 
 <figure>
