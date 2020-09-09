@@ -21,7 +21,7 @@ pros
 
 ## Cons
 
-<figure>
+<figure style="width: 50px" class="align-left">
   <img src="{{ '/assets/images/test1.gif' | relative_url }}" alt="fish walk" width="10">
 </figure>
 
