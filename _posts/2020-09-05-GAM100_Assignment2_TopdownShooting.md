@@ -15,14 +15,12 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 
 ## Characteristic
 
+
 ## Pros
 
 
 ## Cons
 
-<figure style="width: 50px">
-  <img src="{{ '/assets/images/test1.gif' | relative_url }}" alt="fish walk" width="10">
-</figure>
 
 ## Summary
 
