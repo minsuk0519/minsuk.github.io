@@ -19,6 +19,7 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 ## Pros
 
 <div class="notice--success">
+  <h4>Pros</h4>
   <p>- Lack of visual factor.</p>
   <p>- Lack of visual factor.</p>
   <p>- Lack of visual factor.</p>
@@ -32,6 +33,7 @@ This project is top-down 2d shooting game made by [Zero Engine](https://www.zero
 ## Cons
 
 <div class="notice--danger">
+  <h4>Cons</h4>
   <p>- Lack of visual factor.</p>
   <p>- Lack of visual factor.</p>
   <p>- Lack of visual factor.</p>
