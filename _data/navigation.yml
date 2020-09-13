@@ -1,10 +1,10 @@
 main:
   - title: "About"
-    url: /pages/about/
+    url: /about/
   - title: "Posts"
-    url: /pages/posts/
+    url: /posts/
   - title: "Categories"
-    url: /pages/categories/
+    url: /categories/
 docs:
   - title: Getting Started
     children:
