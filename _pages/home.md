@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Learn more"
   - title: "Recently Posts"
     excerpt: "See my recently posts"
-    url: "/pages/posts/"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Posts"
   - title: "Categories"
