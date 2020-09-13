@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - title: "About Me"
     excerpt: "Learn from introduction about me"
-    url: "/pages/about/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Recently Posts"
@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Posts"
   - title: "Categories"
     excerpt: "See the categories..."
-    url: "/pages/categories/"
+    url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
