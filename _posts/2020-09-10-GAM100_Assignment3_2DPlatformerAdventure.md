@@ -10,7 +10,7 @@ toc: true
 
 ## Brief Description
 
-This solo project was developed with [Zero Engine](https://www.zeroengine.io/) which is built-in game engine and editor. The genre of game is 2D platformer adventure game. I inspired the whole game idea from [Super Mario](https://en.wikipedia.org/wiki/Super_Mario). <figure style="width: 50px">
+This solo project was developed with [Zero Engine](https://www.zeroengine.io/) which is built-in game engine and editor. The genre of game is 2D platformer adventure game. I inspired the whole game idea from [Super Mario](https://en.wikipedia.org/wiki/Super_Mario). <figure style="width: 30px" class="align-right">
   <img src="{{ '/assets/images/GAM100_Assignment3_GoldfishWalk.gif' | relative_url }}" alt="fish walk">
 </figure> The character named gold fish, can only breathe in water. The goal of the game is reach the end point avoiding from dangerous obstacles.
 
@@ -24,7 +24,7 @@ This solo project was developed with [Zero Engine](https://www.zeroengine.io/) w
   <p>+ Comfortable control feeling.</p>
 </div>
 
-## Cons
+## Conss
 
 <div class="notice--danger">
   <p>- Art styles isn't united.</p>
