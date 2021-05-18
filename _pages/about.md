@@ -12,6 +12,7 @@ My name is Minsuk and I am student of computer science.
 - Graphic Programming with [OpenGL](https://www.opengl.org/)
 
 ## Skills
+
 | Name                                        | Level                                           |
 | ------------------------------------------- | ----------------------------------------------- |
 | C | ★★★★☆ |
@@ -20,6 +21,7 @@ My name is Minsuk and I am student of computer science.
 | Git | ★★★☆☆ |
 
 ## Projects
+
 | Name                       | Genre                 | Period            | Scale        | Role           |
 | -------------------------- | --------------------- | ----------------- | ------------ | -------------- |
 | [The Last Battery][home] | 2D Platform, Puzzle | 2017 | 3 People team | Producer
