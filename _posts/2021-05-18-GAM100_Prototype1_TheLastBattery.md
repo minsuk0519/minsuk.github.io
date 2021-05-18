@@ -17,7 +17,7 @@ gallery:
 
 ## Brief Description
 
- This is the first project that I worked with other people. With two team members, we dicided to make a 2D puzzle game with [Zero Engine](https://www.zeroengine.io/). It is 2D platform puzzle game that player can spawn it's clone and able to change the position with the clone. The game is motivated from [Escape Goat][https://store.steampowered.com/app/251370/Escape_Goat/] and [Portal][https://en.wikipedia.org/wiki/Portal_(series)] series.
+ This is the first project that I worked with other people. With two team members, we dicided to make a 2D puzzle game with [Zero Engine](https://www.zeroengine.io/). It is 2D platform puzzle game that player can spawn it's clone and able to change the position with the clone. The game is motivated from [Escape Goat](https://store.steampowered.com/app/251370/Escape_Goat/) and [Portal](https://en.wikipedia.org/wiki/Portal_(series)) series.
 
 ## Pros
 
