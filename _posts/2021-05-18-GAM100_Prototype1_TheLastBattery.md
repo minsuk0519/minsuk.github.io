@@ -10,24 +10,24 @@ toc: true
 
 ## Brief Description
 
- This is the first project that I worked with other people. With two team members, we dicided to make a 2D puzzle game with [Zero Engine](https://www.zeroengine.io/). 
+ This is the first project that I worked with other people. With two team members, we dicided to make a 2D puzzle game with [Zero Engine](https://www.zeroengine.io/). It is 2D platform puzzle game that 
 
 ## Pros
 
 <div class="notice--success">
-  <p>+ Various interactive object.</p>
-  <p>+ Some HUD that displays information.</p>
-  <p>+ Fancy game concept.</p>
-  <p>+ Intuitive level design.</p>
-  <p>+ Comfortable control feeling.</p>
+  <p>+ Various interactive objects.</p>
+  <p>+ .</p>
+  <p>+ .</p>
+  <p>+ .</p>
+  <p>+ .</p>
 </div>
 
 ## Cons
 
 <div class="notice--danger">
-  <p>- Art styles isn't united.</p>
-  <p>- Lack of game contents.</p>
-  <p>- Failure on time management.</p>
+  <p>- Lack of tutorial level.</p>
+  <p>- .</p>
+  <p>- .</p>
 </div>
 
 ## Summary

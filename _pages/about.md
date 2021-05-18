@@ -11,8 +11,8 @@ My name is Minsuk and I am student of computer science.
 ## Specialties
 - Graphic Programming with [OpenGL](https://www.opengl.org/)
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
+| Name                                        | Level                                           |
+| ------------------------------------------- | ----------------------------------------------- |
 | C | ★★★★☆ |
 | GLSL | ★★★☆☆ |
 | Python | ★★☆☆☆ |
