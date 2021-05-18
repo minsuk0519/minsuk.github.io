@@ -1,0 +1,8 @@
+Minsuk Kim:
+  name        : "Minsuk Kim"
+  bio         : # blank""
+  avatar      : # blank
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "msk0519@gmail.com"
