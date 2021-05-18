@@ -13,6 +13,9 @@ gallery:
   - url: /assets/images/GAM150_TutorialLevel.png
     image_path: /assets/images/GAM150_TutorialLevel.png
     alt: "Tutorial Level"
+  - url: /assets/images/GAM150_SpawnClone.gif
+    image_path: /assets/images/GAM150_SpawnClone.gif
+    alt: "Character"
 ---
 
 ## Brief Description
