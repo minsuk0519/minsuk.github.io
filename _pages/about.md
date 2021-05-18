@@ -4,6 +4,7 @@ title: "About Me"
 excerpt: "My name is Kim Minsuk"
 last_modified_at: 2021-05-18
 author_profile: true
+layout: single
 toc: true
 ---
 My name is Minsuk and I am student of computer science.
@@ -28,6 +29,6 @@ My name is Minsuk and I am student of computer science.
 | [The Ultimate Vacuum Cleaner][home] | 2D Platform, Puzzle | 2017 | 3 People team | Programmer
 | [Fedora Man][home] | 2D platform, Action | 2017 | 3 People team | Programmer
 | [ColorLeon][home] | 2D platform | 2018 | 4 People team | Technical Director
-| [World Fire Power Tournament][home] | 2018-2019 | 4 People team | Graphic Programmer
+| [World Fire Power Tournament][home] | 2D shooting | 2018-2019 | 4 People team | Graphic Programmer
 
 [LAST-BATTERY]: {{ "" | relative_url }}{% post_url 2021-05-18-GAM100_Prototype1_TheLastBattery %}
