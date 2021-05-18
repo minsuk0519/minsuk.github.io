@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About Me"
 excerpt: "My name is Kim Minsuk"
-created: 2020-08-23
 last_modified_at: 2021-05-18
 author_profile: true
 toc: true
