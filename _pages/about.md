@@ -11,17 +11,10 @@ My name is Minsuk and I am student of computer science.
 ## Specialties
 - Graphic Programming with [OpenGL](https://www.opengl.org/)
 
+## Skills
 | Name                                        | Level                                           |
 | ------------------------------------------- | ----------------------------------------------- |
 | C | ★★★★☆ |
-| GLSL | ★★★☆☆ |
-| Python | ★★☆☆☆ |
-| 15 | ★★★☆☆ |
-
-## Skills
-| Name                                        | Level                                                 |
-| ------------------------------------------- | ----------------------------------------------------- |
-| C, C++ | ★★★★☆ |
 | GLSL | ★★★☆☆ |
 | Python | ★★☆☆☆ |
 | Git | ★★★☆☆ |
@@ -34,3 +27,11 @@ My name is Minsuk and I am student of computer science.
 | [Fedora Man][home] | 2D platform, Action | 2017 | 3 People team | Programmer
 | [ColorLeon][home] | 2D platform | 2018 | 4 People team | Technical Director
 | [World Fire Power Tournament][home] | 2018-2019 | 4 People team | Graphic Programmer
+
+
+| Name                                        | Level                                           || Name                                        | Level                                           |
+| ------------------------------------------- | ----------------------------------------------- || ------------------------------------------- | ----------------------------------------------- |
+| C | ★★★★☆ || C | ★★★★☆ |
+| GLSL | ★★★☆☆ || GLSL | ★★★☆☆ |
+| Python | ★★☆☆☆ || Python | ★★☆☆☆ |
+| Git | ★★★☆☆ || Git | ★★★☆☆ |
