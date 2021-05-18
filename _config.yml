@@ -21,7 +21,7 @@ title                    : "Minsuk Blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minsuk"
-description              : "A personal site for minsuk"
+description              : "A personal site"
 url                      : "https://minsuk0519.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
