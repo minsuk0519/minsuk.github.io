@@ -4,6 +4,7 @@ title: "About Me"
 excerpt: "My name is Kim Minsuk"
 created: 2020-08-23
 last_modified_at: 2021-05-18
+author_profile: true
 toc: true
 ---
 My name is Minsuk and I am student of computer science.
@@ -13,13 +14,10 @@ My name is Minsuk and I am student of computer science.
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| 12 | 29 |
-| 13 | 28 |
-| 14 | 27 |
-| 15 | 26 |
-| 16 | 25 |
-| 17 | 24 |
-| 18 | 23 |
+| 12 | ★★★★☆ |
+| 13 | ★★★☆☆ |
+| 14 | ★★☆☆☆ |
+| 15 | ★★★☆☆ |
 
 ## Skills
 | Name                                        | Level                                                 |
