@@ -72,6 +72,6 @@ permalink: /tags/webgltest
 		}
 	}
 </script>
-<script async src="/assets/html/webgltest/hello.js"></script>
+<script async src="/assets/html/webgltest/cs250_project1.js"></script>
 
 My gl
