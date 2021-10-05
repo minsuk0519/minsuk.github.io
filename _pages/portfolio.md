@@ -12,16 +12,24 @@ header:
     - label: ""
       url: ""
   caption: ""
-feature_row2:
+sidebar:
+  - title: "Minsuk Kim"
+    image: /assets/images/MyImage.png
+    image_alt: "Face"
+    text: ""
+  - title: "Role"
+    text: "Software Engineer, Graphics Programmer"
+graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    alt: "graphic_solo"
+    title: "Graphic Solo project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "https://github.com/minsuk0519/minsuk0519.github.io/actions/new"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/GraphicSoloProject.png
+  	image_path: /assets/images/GraphicSoloProject.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -32,6 +40,6 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="graphicproject" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
