@@ -12,13 +12,6 @@ header:
     - label: ""
       url: ""
   caption: ""
-sidebar:
-  - title: "Minsuk Kim"
-    image: /assets/images/MyImage.png
-    image_alt: "Face"
-    text: ""
-  - title: "Role"
-    text: "Software Engineer, Graphics Programmer"
 graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
     alt: "graphic_solo"
