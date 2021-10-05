@@ -11,20 +11,12 @@ header:
   actions:
     - label: ""
       url: ""
-  caption: ""
-sidebar:
-  - title: "Minsuk Kim"
-    image: /assets/images/MyImage.png
-    image_alt: "Face"
-    text: ""
-  - title: "Role"
-    text: "Software Engineer, Graphics Programmer"
 graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
     alt: "graphic_solo"
     title: "Graphic Solo project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "https://github.com/minsuk0519/minsuk0519.github.io/actions/new"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
