@@ -31,10 +31,22 @@ WFT:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+ColorLeon:
+  - image_path: /assets/images/ColorLeonTitle.png
+    title: "ColorLeon"
+    excerpt: 'Made by supported 2D engine(box2d) by team of 4'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+**About**
+Name : Minsuk Kim
+Role : Software Engineer, Graphics Programmer
+Junior students in Computer Science.
 
 {% include feature_row id="graphicproject" type="left" %}
 
 {% include feature_row id="WFT" type="right" %}
+
+{% include feature_row id="ColorLeon" type="left" %}
