@@ -12,6 +12,13 @@ header:
     - label: ""
       url: ""
   caption: ""
+sidebar:
+  - title: "Minsuk Kim"
+    image: /assets/images/MyImage.png
+    image_alt: "Face"
+    text: ""
+  - title: "Role"
+    text: "Software Engineer, Graphics Programmer"
 graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
     alt: "graphic_solo"
@@ -21,8 +28,7 @@ graphicproject:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - url: /assets/images/GraphicSoloProject.png
-  	image_path: /assets/images/GraphicSoloProject.png
+  - image_path: /assets/images/GraphicSoloProject.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
