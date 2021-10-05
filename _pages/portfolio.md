@@ -14,23 +14,21 @@ sidebar:
   - title: "Minsuk Kim"
     image: /assets/images/MyImage.png
     image_alt: "Face"
-    text: ""
+    text: "dd"
   - title: "Role"
     text: "Software Engineer, Graphics Programmer"
 graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
-    alt: "graphic_solo"
     title: "Graphic Solo project"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Solo 3D graphics engine with **OpenGL**.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/GraphicSoloProject.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "/assets/images/GraphicSoloProject.png"
+WFT:
+  - image_path: /assets/images/WFTTitle.png
+    title: "World Firepower Tournament"
+    excerpt: 'Made by custom 2D engine by team of 3'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -39,4 +37,4 @@ feature_row3:
 
 {% include feature_row id="graphicproject" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="WFT" type="right" %}
