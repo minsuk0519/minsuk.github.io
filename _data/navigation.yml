@@ -5,6 +5,8 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+  - title: "Portfolio"
+    url: /portfolio/
 docs:
   - title: Getting Started
     children:
