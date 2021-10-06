@@ -40,10 +40,12 @@ ColorLeon:
     btn_class: "btn--primary"
 ---
 
-**About**
-Name : Minsuk Kim
-Role : Software Engineer, Graphics Programmer
-Junior students in Computer Science.
+## About
+- Name : Minsuk Kim
+- Role : Software Engineer, Graphics Programmer
+- Junior students in Computer Science.
+
+## Work
 
 {% include feature_row id="graphicproject" type="left" %}
 
