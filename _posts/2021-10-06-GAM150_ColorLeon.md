@@ -7,15 +7,21 @@ categories:
 excerpt: "Student Team Project"
 toc: true
 gallery:
-  - url: /assets/images/GAM150_Level.png
-    image_path: /assets/images/GAM150_Level.png
-    alt: "Level Screenshot"
-  - url: /assets/images/GAM150_TutorialLevel.png
-    image_path: /assets/images/GAM150_TutorialLevel.png
-    alt: "Tutorial Level"
-  - url: /assets/images/GAM150_SpawnClone.gif
-    image_path: /assets/images/GAM150_SpawnClone.gif
-    alt: "Character"
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot1.png
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot1.png
+    alt: "Screenshot1"
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot2.png
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.png
+    alt: "Screenshot2"
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot3.png
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot3.png
+    alt: "Screenshot3"
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot4.png
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot4.png
+    alt: "Screenshot4"
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot5.png
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot5.png
+    alt: "Screenshot5"
 ---
 
 ## Project Description
@@ -25,8 +31,6 @@ Team of 4 student team project using supported 2d game engine(box2D). It is a 2D
 ## Role
 
 - Technical Director
-- Physics Programmer
-- Gameplay Programmer
 
 ## Date
 
@@ -58,4 +62,5 @@ Team of 4 student team project using supported 2d game engine(box2D). It is a 2D
 
 ## Links
 **Youtube Link** is [here](https://youtu.be/PPfW8j5y8ug)
+
 **Repository Link** is [here](https://bitbucket.org/digipen_MIA/team_mia/src/master/)
