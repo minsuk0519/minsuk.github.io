@@ -43,6 +43,7 @@ ColorLeon:
 ## About
 - Name : Minsuk Kim
 - Role : Software Engineer, Graphics Programmer
+
 [Read More](/about/){: .btn .btn--primary}
 
 

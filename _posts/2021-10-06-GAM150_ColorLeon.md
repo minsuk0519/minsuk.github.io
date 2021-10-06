@@ -1,7 +1,7 @@
 ---
 title: "ColorLeon"
 filename: "2021-10-06-GAM150_ColorLeon.md"
-permalink: /posts/GAM150
+permalink: /posts/GAM150_ColorLeon
 categories:
   - Project
 excerpt: "Student Team Project"
@@ -18,9 +18,9 @@ gallery:
     alt: "Character"
 ---
 
-## Brief Description
+## Project Description
 
- Team of 4 student team project using supported 2d game engine(box2D). 
+Team of 4 student team project using supported 2d game engine(box2D). It is a 2D puzzle-platform game where character’s color changes physics of the world.
 
 ## Role
 
@@ -50,8 +50,12 @@ gallery:
   <p>- Do not have any artist </p>
 </div>
 
-## Summary
-As a level designer, I want to make a challenging puzzle game that players must think about wisely to solve levels. However, making intuitive tutorials that makes player understand the whole game mechanism. Most of the playtesters judge that the game is too hard even on the tutorial level. Also, implementing an in-game setting menu was one of the difficult features I've implemented. Sending information within a whole game was difficult. I learned basic features about UI while implementing it. In addition, Making the sentry bot and building simple AI were very good experiences. ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/GAM150_SentryBot.gif){: .align-left} 
+## Contribution
+
 
 ## Screenshots
 {% include gallery id="gallery" caption="Screenshots." %}
+
+## Links
+**Youtube Link** is [here](https://youtu.be/PPfW8j5y8ug)
+**Repository Link** is [here](https://bitbucket.org/digipen_MIA/team_mia/src/master/)
