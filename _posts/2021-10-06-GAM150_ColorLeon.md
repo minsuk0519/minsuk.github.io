@@ -5,7 +5,7 @@ permalink: /posts/GAM150_ColorLeon
 categories:
   - Project
 excerpt: "Student Team Project"
-toc: true
+toc: false
 gallery:
   - url: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
     image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
@@ -31,7 +31,7 @@ Team of 4 student team project using supported 2d game engine(box2D). It is a 2D
 
 ## Date
 
-**September, 2019 - December, 2019**
+September, 2018 - December, 2018
 
 ## Contribution
 
@@ -47,9 +47,9 @@ Team of 4 student team project using supported 2d game engine(box2D). It is a 2D
   - Code Review
 
 ## Screenshots
-{% include gallery id="gallery" caption="Screenshots of ColorLeon." %}
+{% include gallery id="gallery" layout="half" caption="Screenshots of ColorLeon." %}
 
 ## Links
-**Youtube Link** is [here](https://youtu.be/PPfW8j5y8ug)
+**Trailer Video** is [here](https://youtu.be/PPfW8j5y8ug)
 
-**Repository Link** is [here](https://bitbucket.org/digipen_MIA/team_mia/src/master/)
+**Repository** is [here](https://bitbucket.org/digipen_MIA/team_mia/src/master/)
