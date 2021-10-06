@@ -7,20 +7,20 @@ categories:
 excerpt: "Student Team Project"
 toc: true
 gallery:
-  - url: /assets/images/ColorLeonScreenshot1.png
-    image_path: /assets/images/ColorLeonScreenshot1.png
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot1.jpg
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot1.jpg
     alt: "Screenshot1"
-  - url: /assets/images/ColorLeon/ColorLeonScreenshot2.png
-    image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.png
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
     alt: "Screenshot2"
-  - url: /assets/images/ColorLeon/ColorLeonScreenshot3.png
-    image_path: /assets/images/ColorLeon/ColorLeonScreenshot3.png
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot3.jpg
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot3.jpg
     alt: "Screenshot3"
-  - url: /assets/images/ColorLeon/ColorLeonScreenshot4.png
-    image_path: /assets/images/ColorLeon/ColorLeonScreenshot4.png
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot4.jpg
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot4.jpg
     alt: "Screenshot4"
-  - url: /assets/images/ColorLeon/ColorLeonScreenshot5.png
-    image_path: /assets/images/ColorLeon/ColorLeonScreenshot5.png
+  - url: /assets/images/ColorLeon/ColorLeonScreenshot5.jpg
+    image_path: /assets/images/ColorLeon/ColorLeonScreenshot5.jpg
     alt: "Screenshot5"
 ---
 
