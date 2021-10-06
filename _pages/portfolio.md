@@ -21,21 +21,21 @@ graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
     title: "Graphic Solo project"
     excerpt: 'Solo 3D graphics engine with **OpenGL**.'
-    url: "#test-link"
+    url: "/posts/2021_SoloGraphics"
     btn_label: "Read More"
     btn_class: "btn--primary"
 WFT:
   - image_path: /assets/images/WFTTitle.png
     title: "World Firepower Tournament"
     excerpt: 'Made by custom 2D engine by team of 3'
-    url: "#test-link"
+    url: "/posts/GAM200_WFT"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ColorLeon:
   - image_path: /assets/images/ColorLeonTitle.png
     title: "ColorLeon"
     excerpt: 'Made by supported 2D engine(box2d) by team of 4'
-    url: "#test-link"
+    url: "/posts/GAM150_ColorLeon"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -43,8 +43,6 @@ ColorLeon:
 ## About
 - Name : Minsuk Kim
 - Role : Software Engineer, Graphics Programmer
-<a href="/about/" class="btn--primary">Read More</a>
-
 [Read More](/about/){: .btn .btn--primary}
 
 
