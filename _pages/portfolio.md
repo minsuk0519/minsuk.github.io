@@ -45,6 +45,8 @@ ColorLeon:
 - Role : Software Engineer, Graphics Programmer
 <a href="/about/" class="btn--primary">Read More</a>
 
+[Read More](/about/){: .btn .btn--primary}
+
 
 ## Work
 
