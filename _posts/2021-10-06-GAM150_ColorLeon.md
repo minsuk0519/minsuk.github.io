@@ -7,8 +7,8 @@ categories:
 excerpt: "Student Team Project"
 toc: true
 gallery:
-  - url: /assets/images/ColorLeon/ColorLeonScreenshot1.png
-    image_path: /assets/images/ColorLeon/ColorLeonScreenshot1.png
+  - url: /assets/images/ColorLeonScreenshot1.png
+    image_path: /assets/images/ColorLeonScreenshot1.png
     alt: "Screenshot1"
   - url: /assets/images/ColorLeon/ColorLeonScreenshot2.png
     image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.png
