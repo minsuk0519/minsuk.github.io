@@ -37,14 +37,20 @@ September, 2018 - December, 2018
 
 - Tech
   - Physics
+    - Implemented dynamically changed physics properties.
+    - Platformer controller
+    - Collide with specific objects
   - Gameplay
+    - Minimap system
+    - Raycasting for rope action
   - UI
-- Design
-  - UI
-  - Weekly meeting
+    - Implemented map editor
+    - Design menu
+    - Design configuration system
 - Management
   - Git
   - Code Review
+  - Weekly meeting
 
 ## Screenshots
 {% include gallery id="gallery" layout="half" caption="Screenshots of ColorLeon." %}
