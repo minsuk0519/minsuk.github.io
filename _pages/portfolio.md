@@ -43,7 +43,8 @@ ColorLeon:
 ## About
 - Name : Minsuk Kim
 - Role : Software Engineer, Graphics Programmer
-- Junior students in Computer Science.
+<a href="/about/" class="btn--primary">Read More</a>
+
 
 ## Work
 
