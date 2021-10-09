@@ -8,7 +8,7 @@ classes: wide
 layout: single
 toc: true
 ---
-My name is Minsuk and I am student of computer science.
+My name is Minsuk Kim and I am a student of computer science.
 
 ## Specialties
 - Graphic Programming with [OpenGL](https://www.opengl.org/)
@@ -27,6 +27,8 @@ My name is Minsuk and I am student of computer science.
 | Name                       | Genre                 | Period            | Scale        | Role           |
 | -------------------------- | --------------------- | ----------------- | ------------ | -------------- |
 | [ColorLeon][COLORLEON] | 2D platform | 2018 | 4 People team | Technical Director
-| [World Fire Power Tournament][home] | 2D shooting | 2018-2019 | 4 People team | Graphic Programmer
+| [World Fire Power Tournament][WFT] | 2D shooting | 2018-2019 | 4 People team | Graphic Programmer
 
 [COLORLEON]: {{ "" | relative_url }}{% post_url 2021-10-06-GAM150_ColorLeon %}
+
+[WFT]: {{ "" | relative_url }}{% post_url 2021-10-09-GAM200_WFT %}

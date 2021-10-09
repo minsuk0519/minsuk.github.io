@@ -5,7 +5,7 @@ permalink: /posts/GAM150_ColorLeon
 categories:
   - Project
 excerpt: "Student Team Project"
-toc: false
+layout : posts
 gallery:
   - url: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
     image_path: /assets/images/ColorLeon/ColorLeonScreenshot2.jpg
