@@ -21,7 +21,7 @@ graphicproject:
   - image_path: /assets/images/GraphicSoloProject.png
     title: "Graphic Solo project"
     excerpt: 'Solo 3D graphics engine with **OpenGL**.'
-    url: "/posts/2021_SoloGraphics"
+    url: "/posts/2021Graphic"
     btn_label: "Read More"
     btn_class: "btn--primary"
 WFT:
