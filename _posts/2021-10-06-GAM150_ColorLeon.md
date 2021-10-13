@@ -31,7 +31,7 @@ Team of 4 student team project using supported 2d game engine(box2D). It is a 2D
 
 ## Date
 
-September, 2018 - December, 2018
+March 2018 - July, 2018
 
 ## Contribution
 

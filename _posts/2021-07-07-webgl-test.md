@@ -1,12 +1,29 @@
 ---
-title: "WebGL test"
+title: "Graphic Project"
 filename: 2021-07-07-webgl-test.md
 categories:
   - WebGL
-date: 2021-07-07
-permalink: /tags/webgltest
+permalink: /tags/WebGL
+layout : posts
 ---
- 
+
+## Project Description
+
+Solo graphic project using sdl, glew
+
+## Date
+
+June, 2019 - July, 2019
+
+## Feature
+
+- Tech
+  - 3D Math & Transform
+  - simple diffuse color
+  - 3D Camera Movement
+  - WebGL import with emscripten
+
+## Demo
 <div class=emscripten>
 	<progress hidden id=progress max=100 value=0></progress>
 </div>
@@ -73,5 +90,3 @@ permalink: /tags/webgltest
 	}
 </script>
 <script async src="/assets/html/webgltest/cs250_project1.js"></script>
-
-My gl
