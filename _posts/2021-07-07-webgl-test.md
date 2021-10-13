@@ -90,3 +90,5 @@ June, 2019 - July, 2019
 	}
 </script>
 <script async src="/assets/html/webgltest/cs250_project1.js"></script>
+
+press space bar for change perspective
