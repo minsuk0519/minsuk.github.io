@@ -2,7 +2,7 @@
 title: "Graphic Project"
 filename: 2021-07-07-webgl-test.md
 categories:
-  - WebGL
+  - Project
 permalink: /posts/webgl
 layout : posts
 ---
