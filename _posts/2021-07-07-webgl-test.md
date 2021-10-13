@@ -3,7 +3,7 @@ title: "Graphic Project"
 filename: 2021-07-07-webgl-test.md
 categories:
   - WebGL
-permalink: /tags/WebGL
+permalink: /posts/webgl
 layout : posts
 ---
 
