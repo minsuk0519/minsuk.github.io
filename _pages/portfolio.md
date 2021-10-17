@@ -18,7 +18,7 @@ sidebar:
   - title: "Role"
     text: "Software Engineer, Graphics Programmer"
 FALL2021:
-  - image_path: /assets/images/ColorLeonTitle.png
+  - image_path: /assets/images/GraphicSoloProject.png
     title: "FALL2021"
     excerpt: 'Rendering engine with Vulkan'
     url: "/posts/FALL2021"
@@ -56,7 +56,7 @@ ColorLeon:
 
 ## Projects
 
-{% include feature_row id="Rendering" type="right" %}
+{% include feature_row id="FALL2021" type="right" %}
 
 {% include feature_row id="graphicproject" type="left" %}
 
