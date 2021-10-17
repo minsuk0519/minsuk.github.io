@@ -14,12 +14,14 @@ My name is Minsuk Kim and I am a Junior year student of computer science.
 
 ## Skills
 
-| Name                                        | Level                                           |
-| ------------------------------------------- | ----------------------------------------------- |
+| Name               | Level                  |
+| ------------------ | ---------------------- |
 | C, C++ | ★★★★☆ |
-| GLSL | ★★★☆☆ |
+| OpenGL | ★★★☆☆ |
 | Python | ★★☆☆☆ |
 | Git | ★★★☆☆ |
+| Vulkan | ★☆☆☆☆ | 
+| UnrealEngine | ★★★☆☆ |
 
 ## Projects
 
