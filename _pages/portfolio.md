@@ -18,7 +18,7 @@ sidebar:
   - title: "Role"
     text: "Software Engineer, Graphics Programmer"
 FALL2021:
-  - image_path: /assets/images/GraphicSoloProject.png
+  - image_path: /assets/images/Fall2021Title.png
     title: "FALL2021"
     excerpt: 'Rendering engine with Vulkan'
     url: "/posts/FALL2021"
@@ -56,10 +56,10 @@ ColorLeon:
 
 ## Projects
 
-{% include feature_row id="FALL2021" type="right" %}
+{% include feature_row id="FALL2021" type="left" %}
 
-{% include feature_row id="graphicproject" type="left" %}
+{% include feature_row id="graphicproject" type="right" %}
 
-{% include feature_row id="WFT" type="right" %}
+{% include feature_row id="WFT" type="left" %}
 
-{% include feature_row id="ColorLeon" type="left" %}
+{% include feature_row id="ColorLeon" type="right" %}
