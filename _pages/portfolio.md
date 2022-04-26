@@ -17,6 +17,13 @@ sidebar:
     text: "dd"
   - title: "Role"
     text: "Software Engineer, Graphics Programmer"
+CS562:
+  - image_path: /assets/images/Fall2021Title.png
+    title: "Graphics Engine"
+    excerpt: 'Rendering engine with Vulkan'
+    url: "/posts/CS562"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 FALL2021:
   - image_path: /assets/images/Fall2021Title.png
     title: "FALL2021"
@@ -55,6 +62,8 @@ ColorLeon:
 
 
 ## Projects
+
+{% include feature_row id="CS562" type="right" %}
 
 {% include feature_row id="FALL2021" type="left" %}
 
