@@ -18,7 +18,7 @@ sidebar:
   - title: "Role"
     text: "Software Engineer, Graphics Programmer"
 CS562:
-  - image_path: /assets/images/Fall2021Title.png
+  - image_path: /assets/images/CS562Title.png
     title: "Graphics Engine"
     excerpt: 'Rendering engine with Vulkan'
     url: "/posts/CS562"
