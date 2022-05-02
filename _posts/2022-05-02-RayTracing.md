@@ -7,8 +7,8 @@ categories:
 excerpt: "Sample Imaged from ray traced scene"
 layout : posts
 gallery:
-  - url: /assets/images/CS500/Image0.png
-    image_path: /assets/images/CS500/Image0.png
+  - url: /assets/images/CS500/Image0.jpg
+    image_path: /assets/images/CS500/Image0.jpg
     alt: "Screenshot1"
   - url: /assets/images/CS500/Image1.png
     image_path: /assets/images/CS500/Image1.png
@@ -29,20 +29,16 @@ gallery:
 
 ## Project Description
 
-Solo 3D Rendering engine with Vulkan API from my cs562 class(advanced real time rendering technique).
+Ray traced images using BVH, ray marching, complex solid geometry, physics based rendering, image-based lighting, and beer's law.
 
 ## Date
 
 January, 2021 - April, 2021
 
 ## Purpose
+- Learn how ray tracing algorithm works (not in real-time)
 
 ## Feature
-- Hybrid rendering(deferred + forward) with multiple lights [Report](https://github.com/minsuk0519/cs562/blob/main/report/CS562_Project1_m.kim.pdf)
-- Moment shadow map for better performance [Report](https://github.com/minsuk0519/cs562/blob/main/report/CS562_Project2_m.kim.pdf)
-- Physics based rendering with Image-based lighting [Report](https://github.com/minsuk0519/cs562/blob/main/report/CS562_Project3_m.kim.pdf)
-- Alchemy ambient occlusion [Report](https://github.com/minsuk0519/cs562/blob/main/report/CS562_Project4_m.kim.pdf)
-- Global Illumination with precomputed light probes [Report](https://github.com/minsuk0519/cs562/blob/main/report/CS562_Project5_m.kim.pdf)
 
 ## Screenshot
 {% include gallery id="gallery" layout="half" caption="sample images" %}
