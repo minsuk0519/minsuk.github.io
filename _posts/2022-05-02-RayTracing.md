@@ -7,8 +7,8 @@ categories:
 excerpt: "Sample Imaged from ray traced scene"
 layout : posts
 gallery:
-  - url: /assets/images/CS500/Image0.jpg
-    image_path: /assets/images/CS500/Image0.jpg
+  - url: /assets/images/CS500/Image0.png
+    image_path: /assets/images/CS500/Image0.png
     alt: "Screenshot1"
   - url: /assets/images/CS500/Image1.png
     image_path: /assets/images/CS500/Image1.png
