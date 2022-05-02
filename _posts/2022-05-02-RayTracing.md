@@ -39,9 +39,14 @@ January, 2021 - April, 2021
 - Learn how ray tracing algorithm works (not in real-time)
 
 ## Feature
+- RayCasting [Report](https://github.com/minsuk0519/CS500/blob/main/reports/CS500_Project1_m.kim.pdf)
+- PathTrace [Report](https://github.com/minsuk0519/CS500/blob/main/reports/CS500_Project2_m.kim.pdf)
+- Reflection [Report](https://github.com/minsuk0519/CS500/blob/main/reports/CS500_Project3_m.kim.pdf)
+- Transmission [Report](https://github.com/minsuk0519/CS500/blob/main/reports/CS500_Project4_m.kim.pdf)
+- Image-Based Lighting and Complex Solid Geometry [Report](https://github.com/minsuk0519/CS500/blob/main/reports/CS500_Project5_m.kim.pdf)
 
 ## Screenshot
 {% include gallery id="gallery" layout="half" caption="sample images" %}
 
 ## Links
-**Repository** is [here](https://github.com/minsuk0519/cs562)
+**Repository** is [here](https://github.com/minsuk0519/CS500)
